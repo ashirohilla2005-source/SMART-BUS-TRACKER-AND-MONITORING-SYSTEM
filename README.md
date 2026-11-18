@@ -157,8 +157,6 @@ The Smart Bus Tracker mobile application is developed using **MIT App Inventor**
 | **Application** | Smart Bus Tracker |
 | **File Format** | Android APK |
 
-> 📥 **Download Application:** Add your APK download link here.
-
 ---
 
 ## 🛠️ Technologies Used
